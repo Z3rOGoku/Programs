@@ -15,7 +15,7 @@ string PickRandom()
     srand(time(NULL));
     int random = rand() % 30 +1;
 
-    string RandomWord[200]={"Battery","treasure","krishna","rockets","superman","forests","Bedroom","Between","Chamber","Chicken",
+    string RandomWord[200]={"Battery","himansh","treasure","krishna","rockets","superman","forests","Bedroom","Between","Chamber","Chicken",
     "Diamond","Nervous","legends","Passage","samsung","russian","america","oneplus","romance","dolphin","giraffe","jackass","sunrise",
     "protons","austria","vietnam","denmark","gangtok","ukraine","amazing","puzzled","disgust","comfort","catgirl","vampire", "kaylana","samsung"};
 
